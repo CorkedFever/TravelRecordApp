@@ -1,0 +1,1 @@
+E:\Projects\TravelRecordApp\TravelRecordApp\TravelRecordApp.UWP\TravelRecordApp.UWP.csproj;x86
